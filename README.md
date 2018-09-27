@@ -1,2 +1,2 @@
 # TelegramNotify
-Уведомления через Telegram
+Отправка уведомлений через Telegram
